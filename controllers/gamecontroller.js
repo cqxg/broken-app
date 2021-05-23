@@ -114,4 +114,4 @@ router.delete('/remove/:id', (req, res) => {
         )
 })
 
-module.exports = routers;
+module.exports = router;
